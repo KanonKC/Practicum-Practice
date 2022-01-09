@@ -1,0 +1,32 @@
+cww:x:1107:1200:Chaiyong Wongchaisuwat:/home/lect/cww:/bin/csh
+scs:x:1123:1200:Sitichai Srioon:/home/lect/scs:/bin/csh
+snp:x:1127:1200:Somchai Numprasertchai,KU,1234567,1234567:/home/lect/snp:/bin/bash
+b40cct:x:34001:1300:Chartchai:/home/student/std40/b40cct:/bin/bash
+b4105138:x:34113:1300:Nattachai Ungsriwong (41051384):/home/student/std41/b4105138:/bin/bash
+b4105139:x:34114:1300:Tanawat Pangchaimo (41051392):/home/student/std41/b4105139:/bin/bash
+b4105278:x:34125:1300:Donluch Jongmahasanchai (41052788):/home/student/std41/b4105278:/bin/bash
+b4105496:x:34152:1300:Lertchai Chaiwattanakulkit (41054966):/home/student/std41/b4105496:/bin/bash
+b4205181:x:34223:1300:Chatchai Phuthongkao,KU,5514043,5514043:/home/student/std42/b4205181:/bin/bash
+b4205370:x:34239:1300:Pruettichai Somrongthong:/home/student/std42/b4205370:/bin/bash
+b4205581:x:34254:1300:Surachai 922/1,6898894,6898894:/home/student/std42/b4205581:/bin/bash
+b4205596:x:34258:1300:Anong Tantihachai,,,9418416#0:/home/student/std42/b4205596:/bin/bash
+b4305062:x:34301:1300:Denchai Tapimolrat:/home/student/std43/b4305062:/bin/bash
+b4305269:x:34319:1300:Songyot Leechaianan:/home/student/std43/b4305269:/bin/bash
+b4305349:x:34324:1300:Padolchai Bhatdumrongjit:/home/student/std43/b4305349:/bin/bash
+b4305425:x:34332:1300:Panuchai Roengsukpipatana:/home/student/std43/b4305425:/bin/bash
+b4305523:x:34342:1300:Sarunchai Dokchan:/home/student/std43/b4305523:/bin/bash
+b4305639:x:34351:1300:Itthichok Jangchaimonta,CPE:/home/student/std43/b4305639:/bin/bash
+g4165230:x:44128:1400:Wuthichai:/home/mcpe/mcpe2/g4165230:/bin/bash
+g4165242:x:44137:1400:Apiset Tananchai:/home/mcpe/mcpe2/g4165242:/bin/bash
+g4165245:x:44140:1400:Arnon Sricharoenchai:/home/mcpe/mcpe2/g4165245:/bin/tcsh
+g4165247:x:44142:1400:Ekapol Rojratanavichai,Upfront solution system,+662-391-9900:/home/mcpe/mcpe2/g4165247:/bin/bash
+g4165249:x:44143:1400:Wannachai KMITNB,662 9132500 Ext 3243:/home/mcpe/mcpe2/g4165249:/bin/bash
+g4265098:x:44219:1400:Sompong Techarphonchai:/home/mcpe/mcpe3/g4265098:/bin/bash
+g4265099:x:44220:1400:Sittichai Theppaitoon:/home/mcpe/mcpe3/g4265099:/bin/bash
+g4365003:x:54259:1400:Kittipong Ekkachai:/home/mcpe/mcpe4/g4365003:/bin/bash
+g4365048:x:54304:1500:Tuangjit Chanwanchaisuwan,,,2130760:/home/msit/msit3/g4365048:/bin/bash
+g4365073:x:54329:1500:Watcharachai Nectec,--,--:/home/msit/msit3/g4365073:/bin/bash
+g4465004:x:44403:1400:Chalermchai Lertworasirikul:/home/mcpe/mcpe5/g4465004:/bin/bash
+g4465011:x:44410:1400:Taweechai Ouypornkochagorn:/home/mcpe/mcpe5/g4465011:/bin/bash
+g4465012:x:44411:1400:Thanachai Pramewitaypoori:/home/mcpe/mcpe5/g4465012:/bin/bash
+g4465297:x:54409:1500:chokchai TIG,3386199,7422368:/home/msit/msit4/g4465297:/bin/bash
