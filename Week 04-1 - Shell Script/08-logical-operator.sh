@@ -1,0 +1,1 @@
+echo user1 user2 user3 > user-list.txt && echo Success || echo Failure

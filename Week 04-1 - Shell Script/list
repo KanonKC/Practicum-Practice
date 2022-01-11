@@ -1,0 +1,12 @@
+total 10
+-rw-r--r-- 1 User 197121  82 Jan  9 00:04 01-banner.sh
+-rw-r--r-- 1 User 197121 254 Jan  8 02:34 02-report-my-info.sh
+-rw-r--r-- 1 User 197121 120 Jan  8 23:43 03-get-fullname.sh
+-rw-r--r-- 1 User 197121 336 Jan  8 23:47 04-userinfo.sh
+-rw-r--r-- 1 User 197121 129 Jan  9 01:05 05-count-fails.sh
+-rw-r--r-- 1 User 197121 210 Jan 11 15:27 06-count-ip.sh
+-rw-r--r-- 1 User 197121  85 Jan 11 21:24 07-find-large-files.sh
+-rw-r--r-- 1 User 197121 240 Jan  9 01:05 access.log
+-rw-r--r-- 1 User 197121   0 Jan 11 21:32 list
+-rw-r--r-- 1 User 197121 209 Jan 10 19:55 sample.log
+-rw-r--r-- 1 User 197121 105 Jan  9 01:05 success.log
