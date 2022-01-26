@@ -18,7 +18,11 @@ int main(int argc, char **argv) {
         banner_horizontal(argv[1]);
 }
 
-/*
+/* อย่าลืมลบ 03- ออกด้วย
+
+Compile (Header File):
+gcc -c banner.c
+
 Compile:
 gcc -c 03-show-banner.c
 
