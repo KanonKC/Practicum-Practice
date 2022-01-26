@@ -31,7 +31,7 @@ int main(int argc,char* argv[]){
     return 0;
 }
 
-/*
+/* อย่าลืมลบ 04- ออกด้วย
 
 Compile (Static Library Link):
 gcc -static -Ipracticum-1.0.0/include 04-practicum-info.c -Lpracticum-1.0.0/lib -lpracticum -o practicum-info-static
