@@ -1,0 +1,2 @@
+Account name:
+Default shell: /usr/bin/bash
